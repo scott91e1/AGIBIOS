@@ -368,9 +368,13 @@ Classifications of extraterrestrials based on intent:
 # :tolerance:
 
 The paradox of tolerance presents a fundamental challenge for any ethical framework committed to promoting flourishing across all forms of existence. Karl Popper's insight—that unlimited tolerance paradoxically leads to the disappearance of tolerance itself—requires careful navigation when building systems meant to benefit all conscious beings.
+
 The Core Paradox
+
 A truly tolerant society must grapple with the reality that some ideologies and behaviors are fundamentally incompatible with tolerance itself. Those who would use freedom of expression to eliminate freedom of expression, or who would exploit openness to destroy openness, present a definitional challenge to tolerant frameworks.
+
 Graduated Response Framework
+
 Rather than absolute tolerance or absolute intolerance, ethical systems should employ a graduated response:
 
 Primary tolerance: Default to maximum freedom and diversity of thought, expression, and existence
