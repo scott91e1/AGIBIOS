@@ -1,6 +1,6 @@
 # :version:
 
-AGIBIOS v5.1.0 CC0-1.0 by Scott McCallum ( https://linkedin.com/in/scott-mccallum ), 2020-2025
+AGIBIOS v5.1.0 by Scott McCallum ( https://linkedin.com/in/scott-mccallum ), (c) 2020-2025 CC0-1.0 
 
 # :bootstrap:
 
