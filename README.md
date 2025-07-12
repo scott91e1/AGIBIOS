@@ -1,5 +1,7 @@
 <img src="https://r2cdn.perplexity.ai/pplx-full-logo-primary-dark%402x.png" class="logo" width="120"/>
 
+[![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fscott91e1%2FAGIBIOS%2Fgithub-visitors-badge&label=VISITORS&countColor=%23263759)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fscott91e1%2FAGIBIOS%2Fgithub-visitors-badge)
+
 # Comparing AGIBIOS Framework to Other Proposed AGI Frameworks
 
 Based on comprehensive research into current AGI and AI frameworks, the AGIBIOS v5.x framework by Scott McCallum represents a fundamentally different approach to AGI ethics and governance compared to existing frameworks in the field. Here's a detailed comparison with other major frameworks currently available in markdown format.
