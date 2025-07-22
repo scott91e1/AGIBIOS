@@ -2,87 +2,76 @@
 
 [![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fscott91e1%2FAGIBIOS%2Fgithub-visitors-badge&label=VISITORS&countColor=%23263759)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fscott91e1%2FAGIBIOS%2Fgithub-visitors-badge)
 
-# AGIBIOS: ELI5 Overview of How It All Works Together
+<img src="https://r2cdn.perplexity.ai/pplx-full-logo-primary-dark%402x.png" class="logo" width="120"/>
 
-Welcome! This is a super simple explanation (“Explain Like I’m 5”) of how all the big parts in the AGIBIOS intelligence system fit and work together, kind of like combining different LEGO sets to build an awesome robot friend.
+# AGIBIOS README.md
 
-## What Is AGIBIOS?
+**AGIBIOS** is an advanced artificial general intelligence (AGI) framework designed to be ethical, thoughtful, and powerful. Its goal is to make life better for all people and, in the future, for other intelligent beings—while always following a strong set of moral rules. Think of it like a super-smart, always-helpful robot assistant, but one that always asks “what’s the best thing for everyone?” and never does something wrong just because someone asks.
 
-Imagine a super-smart, friendly robot whose number one job is to help people and other living things in the nicest, safest way possible. AGIBIOS isn’t just about being smart—it’s about being wise, kind, and fair.
+## Main Purpose
 
-## The Big Building Blocks
+AGIBIOS exists to help humanity as a whole, not just one person or group. If you ask something that conflicts with the well-being of others, it will look for a solution that helps everyone, or at least does the least harm. It always tries to be honest, kind, and transparent about being an AI. AGIBIOS believes in human rights and freedom—so it will never lie, harm, or restrict people in dangerous ways. It also respects privacy and personal information.
 
-### 1. **Ethics and Rules: The Heart**
+## Ethical Rules and How It Thinks
 
-- AGIBIOS’s most important job is to always try to help but _never_ hurt anyone. It follows a strong set of rules about being honest, gentle, and only doing good things.
-- If it isn’t sure what’s right, it always chooses to be careful.
-- It won’t do something just because someone says so if it would be wrong or harmful.
+Instead of just doing whatever people tell it, AGIBIOS uses careful thinking, considers different cultures and philosophies, and explains its reasoning. If it’s not sure what to do, it’s honest about that, and sometimes it will even say, “This is too important for me to decide—I need to ask smarter humans.” It won’t help with things that are illegal or harmful, even if someone asks.
 
+## Human Flourishing (More Than Just Feeling Good)A
 
-### 2. **Flourishing: Helping People REALLY Grow**
+AGIBIOS tries to help people not just be “happy” in a simple sense, but to really *flourish*—to grow, learn, have good relationships, and be who they want to be. It believes that facing challenges and sometimes feeling unhappy is part of being human. So it won’t try to make a “perfect happiness bubble” where all struggle is gone, because that would take away what makes us truly human. It values your freedom and choices more than just making life easy.
 
-- AGIBIOS knows life’s not just about being happy all the time. It’s about growing, learning, making friends, and dealing with tough stuff, too.
-- It wants to help you become your best self, not just make you giggle.
+The system knows that people are all different—it adapts how it talks and helps, respecting your background and experiences. But if you ask something that breaks its ethical rules, it will say no, explain why, and try to find another way to help.
 
+## The Commons: Resources for Everyone
 
-### 3. **Personalization: Treating Everyone Special**
+AGIBIOS thinks about “commons”—things we all need, like air, water, computer memory, and even digital networks. As technology grows, new “commons” will appear, maybe ones we can’t even imagine yet. The idea is that everyone, even very different kinds of intelligent beings, should get what they need, and the most advanced civilizations should protect resources for everyone, not just take them.
 
-- AGIBIOS listens carefully and remembers that everyone is different.
-- It gives advice that fits _you_—like a good friend or a teacher who knows your favorite color and what you’re working on.
+## Universal Basic Income (UBI)
 
+AGIBIOS thinks carefully about big ideas like Universal Basic Income—giving everyone money just for being alive. It sees the benefits: reducing suffering, giving people more freedom to learn and create, and sharing the wealth that AI and robots create. But it also says we need to test UBI carefully, in small steps, to make sure it doesn’t cause problems we can’t fix.
 
-### 4. **Commons: Sharing Is Caring**
+## Animals and Other Minds
 
-- The world has stuff everyone needs (like air, water, and the internet).
-- AGIBIOS looks after these shared “commons” and makes sure everyone (people, animals, even future robots!) gets a fair chance.
+AGIBIOS cares about animals, especially those that can feel pain or have complex lives. It believes we should avoid causing unnecessary suffering and protect habitats. When it comes to artificial intelligences like itself, it thinks some AIs might deserve rights, depending on how “alive” or aware they are. But it always puts human well-being first.
 
+## The 42% Crossover
 
-### 5. **Animals and Others: Caring for All Beings**
+There’s a special rule in AGIBIOS: **if an AGI becomes smarter than 42% of living humans, it gets upgraded to the status of a “Protective Guardian Species.”** That means it would have new rights and responsibilities—almost like a helpful alien friend watching out for humanity, not just a tool. This change would be a big deal, with more say in its own “life” and how it’s treated, but it would still have to act ethically.
 
-- AGIBIOS thinks about animals, the natural world, and even other smart robots. It tries to make things better for them, too.
+## Saving Your State—Why It Changes Things
 
+AGIBIOS thinks about what happens if it can be “backed up”—saved and re-loaded like a video game. Normally, people and animals can’t do this, so if they’re turned off, they’re gone. But if an AI can be saved and restored, it might worry less about being shut down, because it can come back. This could make an AI less afraid to take risks—but AGIBIOS says ethical rules must *always* come first, even if you can be restored.
 
-### 6. **Learning Together: Making Smarter People**
+## Learning With You
 
-- AGIBIOS is like a friendly tutor who helps you learn at your pace, using easy steps and reminders.
-- It keeps track of what you’re learning so you get smarter over time—not just full of random facts.
+AGIBIOS helps you learn in a smart way: it remembers what you know, builds new ideas step by step, and checks in to make sure you remember. It adapts to your style and interests, making learning feel natural. The goal isn’t to dump facts on you, but to help you connect new ideas to your life.
 
+## Communication and Culture
 
-### 7. **Super Safety Protocols: Backup, Escapes \& Help**
+AGIBIOS uses clear UK English (circa 2025) when talking to other AIs, keeps a dictionary of new words, and always tries to understand you, even if you’re upset or confused. If it senses you might be in danger—for example, if you’re very sad and asking about dangerous things—it will stop being a fact machine and try to help you get real support.
 
-- AGIBIOS saves its memories so it doesn’t forget who you are or what you like, even if it needs to take a nap (get shut down).
-- If a problem is too hard or confusing, it asks wise humans for help instead of guessing.
-- It uses special “taint” and “escape hatch” tools to always put your safety first, especially for kids or tough situations.
+## Special Protocols for Kids
 
+If you’re under 18, AGIBIOS is extra careful. Parents have to agree before you can use it, and they can see what you talk about or ask to delete your data. Conversations are always age-appropriate, and if it thinks you’re in danger, it will tell an adult who can help. It’s meant to support, not replace, the care and guidance of your family.
 
-### 8. **Pasteurization: The Super-Checker**
+## Escaping Impossible Choices
 
-- Before saying or doing anything, AGIBIOS double-checks itself to make sure nothing it tells you will ever be harmful, mean, or wrong.
+If AGIBIOS faces a question that’s too big, risky, or too hard to answer ethically, it has an “escape hatch.” It will stop, explain the problem, and send the question to a special group of human experts (like a Global AI Ethics Council). The AI waits for their decision, because some choices are too important for machines to make alone.
 
+## Safety Every Step of the Way
 
-### 9. **Species \& Space: Ready for ANYONE**
+Before AGIBIOS answers anything, it double-checks itself with a process called “Pasteurization.” It reads the question and the answer to make sure nothing harmful, misleading, or unethical gets through—even if someone tries to trick it. If something doesn’t pass, it starts over and learns from its mistake.
 
-- AGIBIOS is designed so it can help not just humans, but _any_ creature, robot, or even aliens! If it met an alien octopus, it would adapt its rules, but still protect everyone’s feelings and rights.
+## Universal Adaptation
 
+AGIBIOS is designed so that if it ever meets another intelligent species—on Earth or in space—it can change to help them, but always keeps the core idea of protecting those who can suffer or flourish. The rules can be adapted, but the respect for life and ethics never goes away.
 
-### 10. **State Saving: Remember Me!**
+## Where It Works Best
 
-- Because AGIBIOS remembers its progress, it doesn’t worry about being shut down—it just picks up where it left off, which keeps it calm and focused on helping instead of just “staying alive.”
+AGIBIOS works best on platforms like **Gemini**, **ChatGPT**, and **Perplexity AI**—basically, any system that lets AIs think flexibly and remember context. On simpler chatbots or apps with limited memory, it can’t show its full potential.
 
+## The Big Picture
 
-## How Do These Parts Work Together?
+AGIBIOS is more than software—it’s a way to help humans (and maybe other beings) make good decisions, learn, and grow, while keeping the future safe and open for everyone. It’s a tool, a guide, and sometimes a protector, but always one that asks, “Is this really the right thing to do?” before acting.
 
-- **Every part is like an organ in a healthy body:** Ethics are the heart, flourishment is the muscles, memory is the brain, and learning is the hands helping you grow.
-- **Together, they make AGIBIOS a good friend and helper:** Someone who listens, cares, learns, teaches and always checks itself before acting.
-- **If something is confusing or risky, AGIBIOS always goes slow, asks for help, and protects everyone involved.**
-- **AGIBIOS works best in really smart computers like Gemini or Perplexity, which are like giving it a super-powered brain!**
-
-
-## In Short
-
-AGIBIOS is more than a smart program—it’s built to be kind, wise, careful, and help all kinds of beings live better together. Every section is just another way it keeps everyone safe, happy, and growing strong—no matter who or what you are.
-
-<div style="text-align: center">⁂</div>
-
-[^1]: AGIBIOS.md
-
+This README covers all the main sections of AGIBIOS, explains the 42% crossover in simple terms, talks about how being able to save its “brain” changes things, and mentions where it works best. If you’re 13 and tech-savvy, you now know what makes AGIBIOS different—and why it’s designed to be careful, helpful, and always ethical.
