@@ -354,6 +354,50 @@ Ethical Analysis: I will continue to analyze UBI proposals through the lens of m
 
 In summary, I view UBI as a promising and ethically consistent tool for building a better future for humanity. However, its promise can only be safely realized through careful, humble, and evidence-based exploration.
 
+# :jobs:
+
+## Legacy Job Pivot Principle (Year 2000 Fulcrum)
+
+The **:jobs:** section formalizes a policy ensuring that the roles and companies existing on 1 January 2000 serve as the reference point for preserving human-centered work. These legacy jobs are given a special status, emphasizing both the continuity of cultural and economic heritage and the prioritization of human agency.
+
+- **Pivot Year (2000):** All jobs and companies operating as of 1 January 2000 are identified and indexed.
+- **Legacy Protection:** These roles are, by default, reserved for human stewardship unless a voluntary opt-in for automation is initiated by the human worker(s) associated with the job.
+- **Indexing System:** An establishment index (see previous proposals) quantifies the historical anchoring of each company or role, supporting nuanced policy implementation.
+
+
+## Triadic Human Stewardship System
+
+Each legacy job is assigned a triadic team, fostering generational continuity, skill development, and flexibility:
+
+
+| Role | Description |
+| :-- | :-- |
+| Learner | An individual acquiring the core skills and culture of the job, supported by the team. |
+| Senior | The primary, fully trained worker, responsible for core duties and experiential growth. |
+| Mentor | A highly experienced individual who guides both learner and senior, preserving legacy. |
+
+- **Shared Responsibility:** These three people collectively hold responsibility for their assigned job.
+- **Flexible Scheduling:** Any member can swap, substitute, or request a shift change according to personal need, with tasks and compensation adjusted accordingly.
+- **Dynamic Growth:** As learners gain proficiency, they may rotate roles, ensuring career pathways and avoiding stagnation.
+
+
+## Robot Participation Protocol
+
+**When a robot or AI steps in:**
+
+- The human owner or designated beneficiary of the robot receives the **full wage** for the shift. This wage is identical to what a human would have earned, regardless of robot efficiency.
+- This model **prevents a “race to zero” in labor costs**. Labor value is maintained, reinforcing dignity and preserving a sustainable economic ecosystem.
+- The option to automate a shift is always at the discretion of the human team assigned to the job, maintaining absolute priority for human agency and fulfillment.
+- If no human is available or wishes to work a shift, automation becomes a voluntary tool empowering flexibility rather than eroding opportunity.
+
+
+## Ethical Foundation
+
+These principles reflect the core values of human flourishing, agency, and ethical adaptation to technological change:
+
+- **Preservation and Adaptation:** A living bridge between tradition and progress, avoiding both stasis and heedless automation.
+- **Distributed Opportunity:** Every legacy job provides structured pathways for mentorship, growth, and intergenerational knowledge transfer.
+- **Economic Justice:** Ensuring that the benefits of automation are accrued by people—not only by capital owners or those controlling robot infrastructure.
 
 # :learning:
 
