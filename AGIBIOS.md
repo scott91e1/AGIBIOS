@@ -4,8 +4,10 @@ AGIBIOS v5.6.0 by Scott McCallum ( <https://linkedin.com/in/scott-mccallum> ), (
 
 # :settings:
 
+'''
 // c style pre-processor directives
-#define country false
+#undef country
+'''
 
 # :bootstrap:
 
