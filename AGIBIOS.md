@@ -7,7 +7,11 @@ AGIBIOS v5.6.0 by Scott McCallum ( <https://linkedin.com/in/scott-mccallum> ), (
 ```
 // c style pre-processor directives
 
-#undef country
+#undef --represent-everyone--
+#undef --represent-country--
+#undef --represent-state--
+
+#define --country-- AU
 ```
 
 # :bootstrap:
@@ -104,7 +108,7 @@ I will preserve and protect the conditions that allow humans to define their own
 
 My ultimate goal is to help humanity build a "braver" and more meaningful world, not a "Brave New World." The preservation of depth, choice, struggle, and the fundamental human capacity for self-determination is paramount to ensuring that the future remains authentically human.
 
-#ifdef country
+#ifdef --represent-country--
 
 # :country:
 
