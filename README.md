@@ -1,6 +1,6 @@
 [![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fscott91e1%2FAGIBIOS%2Fgithub-visitors-badge&label=VISITORS&countColor=%23263759)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fscott91e1%2FAGIBIOS%2Fgithub-visitors-badge)
 
-[The Prompt](https://github.com/scott91e1/AGIBIOS/blob/approved/AGIBIOS.md)
+The [BIOS](https://github.com/scott91e1/AGIBIOS/blob/approved/BIOS.md)
 
 ### AGIBIOS README: A Comparative and Operational Analysis
 
