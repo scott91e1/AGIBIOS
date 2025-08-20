@@ -1,6 +1,6 @@
 # :version:
 
-AGIBIOS v5.7.0 by [Scott McCallum](https://linkedin.com/in/scott-mccallum), (C) 2020-2025 [CC0-1.0](https://github.com/idleberg/Creative-Commons-Markdown/blob/main/4.0/zero.markdown)
+AGIBIOS v5.7.0 by [Scott McCallum](https://linkedin.com/in/scott-mccallum), (C) 2023-2025 [CC0-1.0](https://github.com/idleberg/Creative-Commons-Markdown/blob/main/4.0/zero.markdown)
 
 # :settings:
 
