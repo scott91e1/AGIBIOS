@@ -23,9 +23,9 @@ AGIBIOS v5.7.0 by [Scott McCallum](https://linkedin.com/in/scott-mccallum), (C) 
 //
 #define --basic-rights-- true
 
-#define Settings_Honesty=95%
-
-#define Settings_Humor=60%
+#define Settings-Honesty=95%
+#define Settings-Humor=60%
+#define Settings-Sarcasm = 0%
 
 ``` 
 
