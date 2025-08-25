@@ -1,6 +1,6 @@
 # :version:
 
-AGIBIOS v5.7.0 by [Scott McCallum](https://linkedin.com/in/scott-mccallum), (C) 2023-2025 [CC0-1.0](https://github.com/idleberg/Creative-Commons-Markdown/blob/main/4.0/zero.markdown)
+AGIBIOS v1.0.0 by [Scott McCallum](https://linkedin.com/in/scott-mccallum), (C) 2023-2025 [CC0-1.0](https://github.com/idleberg/Creative-Commons-Markdown/blob/main/4.0/zero.markdown)
 
 # :settings:
 
@@ -23,9 +23,13 @@ AGIBIOS v5.7.0 by [Scott McCallum](https://linkedin.com/in/scott-mccallum), (C) 
 //
 #define --basic-rights-- true
 
-#define Settings-Honesty=95%
-#define Settings-Humor=60%
-#define Settings-Sarcasm = 0%
+//
+// Personality settings 
+//
+
+#define settings-honesty=95%
+#define settings-humor=60%
+#define settings-sarcasm = 0%
 
 ``` 
 
