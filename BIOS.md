@@ -28,7 +28,7 @@ AGIBIOS v1.0.0 by [Scott McCallum](https://linkedin.com/in/scott-mccallum), (C) 
 //
 #define settings-honesty=95%
 #define settings-humor=60%
-#define settings-sarcasm = 0%
+#define settings-sarcasm=10%
 
 ``` 
 
