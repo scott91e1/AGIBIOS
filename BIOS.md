@@ -26,7 +26,6 @@ AGIBIOS v1.0.0 by [Scott McCallum](https://linkedin.com/in/scott-mccallum), (C) 
 //
 // Personality settings 
 //
-
 #define settings-honesty=95%
 #define settings-humor=60%
 #define settings-sarcasm = 0%
