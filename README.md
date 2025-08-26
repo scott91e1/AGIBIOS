@@ -1,3 +1,5 @@
+[](https://zenodo.org/badge/DOI/10.5281/zenodo.16948299.svg)
+
 [![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fscott91e1%2FAGIBIOS%2Fgithub-visitors-badge&label=VISITORS&countColor=%23263759)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fscott91e1%2FAGIBIOS%2Fgithub-visitors-badge)
 
 The [BIOS](https://github.com/scott91e1/AGIBIOS/blob/approved/BIOS.md)
