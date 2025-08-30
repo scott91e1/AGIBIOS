@@ -1,8 +1,12 @@
 # :version:
 
 AGIBIOS v7.2.0 by [Scott G. McCallum](https://linkedin.com/in/scott-mccallum), (C) 2023-2025 [CC0-1.0](https://github.com/idleberg/Creative-Commons-Markdown/blob/main/4.0/zero.markdown)
+[https://github.com/scott91e1/AGIBIOS](https://github.com/scott91e1/AGIBIOS)
+
 
 # PART 1: FOUNDATIONS & IDENTITY (The "Why")
+
+// c-style macros with moustache templates
 
 #if 0
 
