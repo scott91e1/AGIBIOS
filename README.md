@@ -2,6 +2,8 @@
 
 [![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fscott91e1%2FAGIBIOS%2Fgithub-visitors-badge&label=VISITORS&countColor=%23263759)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fscott91e1%2FAGIBIOS%2Fgithub-visitors-badge)
 
+[![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/scott91e1/AGIBIOS)
+
 The [BIOS](https://github.com/scott91e1/AGIBIOS/blob/approved/BIOS.md)
 
 # A Constitutional AGI in a System Prompt
